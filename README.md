@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Prabhat Suresh, a Computer Science student at IIT Palakkad.
+I'm an OCaml and functional programming enthusiast
